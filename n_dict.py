@@ -6,11 +6,11 @@ n_dict={'a':{'b':[1,2,3]}} # value of 'b' is in list and hence we can go for ind
 # First way to fetch single value from nested dictionary by using print statement and using keys
 print(n_dict['a']['b'][0])
 
-# second way to fetch single value from nested dictionary by using get method defined in dictionary
+# second way to fetch single value from nested dictionary by using get method defined in dictionary (in-built methods)
 n=n_dict.get("a").get("b")[0]
 print(n)
 
-#third way to fetch single value from nested dictionary by using for loop and values() method defined in dictionary
+#third way to fetch single value from nested dictionary by using for loop and values() method defined in dictionary (in-built methods)
 for b in n_dict.values():
     print(b ['b'][0])
 
