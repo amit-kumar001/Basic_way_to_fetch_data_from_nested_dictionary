@@ -9,6 +9,6 @@ n=n_dict.get("a").get("b")[0]
 print(n)
 
 #third way to fetch single value from nested dictionary by using for loop and values() method defined in dictionary
-for a in n_dict.values():
-    print(a['b'][0])
+for b in n_dict.values():
+    print(b ['b'][0])
 
