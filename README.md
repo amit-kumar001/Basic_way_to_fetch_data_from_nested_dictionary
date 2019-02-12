@@ -11,7 +11,7 @@
   
   ## Implementing ways with code
   
-  ### First Way
+  ### First Way n_dict.py
   ```
   n_dict={'a':{'b':[1,2,3]}}
   print(n_dict)
@@ -26,7 +26,7 @@
   print(n)
   ```
   ### Third Way
-  ```
+  ```n_dict.py
   n_dict={'a':{'b':[1,2,3]}}
   print(n_dict)
   for a in n_dict.values():
@@ -36,8 +36,8 @@
   Since this is a python file, hence it can be run using following command
 
   ```
-  python playing_with_python.py
-  python3 playing_with_python.py
+  python n_dict.py
+  python3 n_dict.py
   ```
 
     
