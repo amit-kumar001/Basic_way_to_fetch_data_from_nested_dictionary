@@ -7,7 +7,12 @@
   <li>Second way:- By using <strong> get() method</strong> (in-built methods of dictionary)
 , we find single value (values of nested dictionary is inside a list) using indexing </li>
   <li>Third way:- Fetching value using dictionary method <strong>dictionary.values()</strong> (in-built methods of dictionary)
-  </ol>
+  </ol>  
+  
+  Please have a look at the below screenshot  
+  
+  ![nested500x300](https://user-images.githubusercontent.com/47202519/52635742-b67a2e00-2ef0-11e9-8f6c-b0b320fc7f09.jpg)
+
   
   ## Implementing ways with code
   
